@@ -1,6 +1,6 @@
 #!bin/bash
 
-echo "Maxim testing git"
+echoz "Maxim testing git"
 
 # add comment
 # it was easy
